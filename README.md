@@ -6,6 +6,9 @@
 <p align="center">
   <img src="https://github.com/blackcater/blackcater/blob/main/images/banner.gif" height="256" />
 </p>
-<!--Информатика и вычислительная техника
-commit 96a853f0399768e94d835a8f10c216e462463dc3 (HEAD -> develop, origin/develop)
-Date:   Thu Oct 27 15:17:30 2022 +0300-->
+
+<p>Образование- Информатика и вычислительная техника</p>
+
+<p>Последний коммит</p>
+<p>commit 96a853f0399768e94d835a8f10c216e462463dc3 (HEAD -> develop, origin/develop)</p>
+<p>Date:   Thu Oct 27 15:17:30 2022 +0300</p>
