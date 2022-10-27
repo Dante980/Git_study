@@ -18,11 +18,11 @@
 <p>Репозитории одногруппника:</p>
 <ul>
 <li>https://github.com/TechnoPr0/DE_Sprint.git</li>
-<ul>
+</ul>
 
 </br>
 <p>Номер последнего коммита одногруппника:</p>
 <ul>
 <li>commit b4caf4b168cbbbeb4f5800dca9bf12cdbc5f5472</li>
 <li>Date:   Thu Oct 27 05:38:40 2022 +0300</li>
-<ul>
+</ul>
