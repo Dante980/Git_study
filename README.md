@@ -19,6 +19,6 @@
 <p>https://github.com/TechnoPr0/DE_Sprint.git</p>
 
 </br>
-<p>Номер последнего коммита одногруппника::</p>
+<p>Номер последнего коммита одногруппника:</p>
 <p>commit b4caf4b168cbbbeb4f5800dca9bf12cdbc5f5472</p>
 <p>Date:   Thu Oct 27 05:38:40 2022 +0300</p>
