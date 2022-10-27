@@ -12,3 +12,10 @@
 <p>Последний коммит:</p>
 <p>commit aed6309537fc30d0dac6d07b349274730000d22e</p>
 <p>Date:   Thu Oct 27 16:01:14 2022 +0300</p>
+
+<p>Репозитории одногруппника:</p>
+<p>https://github.com/TechnoPr0/DE_Sprint.git</p>
+
+<p>Номер последнего коммита одногруппника::</p>
+<p>commit b4caf4b168cbbbeb4f5800dca9bf12cdbc5f5472</p>
+<p>Date:   Thu Oct 27 05:38:40 2022 +0300</p>
