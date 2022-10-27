@@ -15,8 +15,8 @@
 <p>Date:   Thu Oct 27 16:01:14 2022 +0300</p>
 
 </br>
-<ul>
 <p>Репозитории одногруппника:</p>
+<ul>
 <li>https://github.com/TechnoPr0/DE_Sprint.git</li>
 <ul>
 
