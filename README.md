@@ -23,7 +23,7 @@
 </br>
 <p>Репозитории одногруппника:</p>
 <ul>
-<li>git@github.com:TechnoPr0/DE_Sprint.git</li>
+<li>https://github.com/TechnoPr0/DE_Sprint.git</li>
 </ul>
 
 </br>
