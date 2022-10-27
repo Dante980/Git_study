@@ -6,4 +6,4 @@
 <p align="center">
   <img src="https://github.com/blackcater/blackcater/blob/main/images/banner.gif" height="256" />
 </p>
-
+<!--Информатика и вычислительная техника-->
