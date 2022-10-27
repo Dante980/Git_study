@@ -20,5 +20,7 @@
 
 </br>
 <p>Номер последнего коммита одногруппника:</p>
-<p>commit b4caf4b168cbbbeb4f5800dca9bf12cdbc5f5472</p>
-<p>Date:   Thu Oct 27 05:38:40 2022 +0300</p>
+<ul>
+<li>commit b4caf4b168cbbbeb4f5800dca9bf12cdbc5f5472</li>
+<li>Date:   Thu Oct 27 05:38:40 2022 +0300</li>
+<ul>
